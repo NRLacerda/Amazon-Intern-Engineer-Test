@@ -15,7 +15,6 @@
             System.Console.WriteLine(poker.ToString()); 
             Console.WriteLine("Escreva um número");
             a = int.Parse(Console.ReadLine());
-            //  Tenho que aprender a utilizar For dentro de While
             int b = 0;
             {
                 do
