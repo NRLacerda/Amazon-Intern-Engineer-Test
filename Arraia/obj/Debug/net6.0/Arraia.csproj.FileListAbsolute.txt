@@ -1,0 +1,15 @@
+\\Brtnspo01st01\app\Administrativo\TI\Nicolas\PROGRAMAÇÃO\C#\Arraia\Arraia\bin\Debug\net6.0\Arraia.exe
+\\Brtnspo01st01\app\Administrativo\TI\Nicolas\PROGRAMAÇÃO\C#\Arraia\Arraia\bin\Debug\net6.0\Arraia.deps.json
+\\Brtnspo01st01\app\Administrativo\TI\Nicolas\PROGRAMAÇÃO\C#\Arraia\Arraia\bin\Debug\net6.0\Arraia.runtimeconfig.json
+\\Brtnspo01st01\app\Administrativo\TI\Nicolas\PROGRAMAÇÃO\C#\Arraia\Arraia\bin\Debug\net6.0\Arraia.dll
+\\Brtnspo01st01\app\Administrativo\TI\Nicolas\PROGRAMAÇÃO\C#\Arraia\Arraia\bin\Debug\net6.0\Arraia.pdb
+\\Brtnspo01st01\app\Administrativo\TI\Nicolas\PROGRAMAÇÃO\C#\Arraia\Arraia\obj\Debug\net6.0\Arraia.csproj.AssemblyReference.cache
+\\Brtnspo01st01\app\Administrativo\TI\Nicolas\PROGRAMAÇÃO\C#\Arraia\Arraia\obj\Debug\net6.0\Arraia.GeneratedMSBuildEditorConfig.editorconfig
+\\Brtnspo01st01\app\Administrativo\TI\Nicolas\PROGRAMAÇÃO\C#\Arraia\Arraia\obj\Debug\net6.0\Arraia.AssemblyInfoInputs.cache
+\\Brtnspo01st01\app\Administrativo\TI\Nicolas\PROGRAMAÇÃO\C#\Arraia\Arraia\obj\Debug\net6.0\Arraia.AssemblyInfo.cs
+\\Brtnspo01st01\app\Administrativo\TI\Nicolas\PROGRAMAÇÃO\C#\Arraia\Arraia\obj\Debug\net6.0\Arraia.csproj.CoreCompileInputs.cache
+\\Brtnspo01st01\app\Administrativo\TI\Nicolas\PROGRAMAÇÃO\C#\Arraia\Arraia\obj\Debug\net6.0\Arraia.dll
+\\Brtnspo01st01\app\Administrativo\TI\Nicolas\PROGRAMAÇÃO\C#\Arraia\Arraia\obj\Debug\net6.0\refint\Arraia.dll
+\\Brtnspo01st01\app\Administrativo\TI\Nicolas\PROGRAMAÇÃO\C#\Arraia\Arraia\obj\Debug\net6.0\Arraia.pdb
+\\Brtnspo01st01\app\Administrativo\TI\Nicolas\PROGRAMAÇÃO\C#\Arraia\Arraia\obj\Debug\net6.0\Arraia.genruntimeconfig.cache
+\\Brtnspo01st01\app\Administrativo\TI\Nicolas\PROGRAMAÇÃO\C#\Arraia\Arraia\obj\Debug\net6.0\ref\Arraia.dll
