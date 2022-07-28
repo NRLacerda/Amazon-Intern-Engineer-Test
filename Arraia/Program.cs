@@ -27,8 +27,10 @@
             }
             
 int[,] poker = new int[4, 2] { { 13, 2 }, { 3, 4 }, { 5, 6 }, { 7, 8 } };
-System.Console.WriteLine(poker[0, 0]);
-System.Console.WriteLine(poker[1, 0]);
+foreach (var item in poker)
+{
+    Console.Write($"->{item}");
+}
 
 
 //Para printar algum dado do array
