@@ -8,10 +8,9 @@ Amazon-Intern-Engineer-Test-1/2
   No teste utilizei C# e Regex
 </p>
 <h3> A parte do C#
-</h3>
-<p>
+
   No teste utilizei C# para formular um Array multidimensional (2D, Matriz) e printar os resultados na tela, e apõs isso inverter o subarray e printar os resultados novamente.
-</p>
+</h3>
 <h3> A parte do Regex
   Utilizando Regex, criei uma função que escolhe palavras que tenham início e final com a mesma letra.
 </h3>
