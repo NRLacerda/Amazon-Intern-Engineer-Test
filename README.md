@@ -11,6 +11,7 @@ Amazon-Intern-Engineer-Test-1/2
 
   No teste utilizei C# para formular um Array multidimensional (2D, Matriz) e printar os resultados na tela, e apõs isso inverter o subarray e printar os resultados novamente.
 </h3>
+<img src="./code1.jpeg">
 <h3> A parte do Regex
   Utilizando Regex, criei uma função que escolhe palavras que tenham início e final com a mesma letra.
 </h3>
