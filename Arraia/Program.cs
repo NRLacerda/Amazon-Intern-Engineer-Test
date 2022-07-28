@@ -25,12 +25,16 @@
 
                 } while (b < a);
             }
-            
-int[,] poker = new int[4, 2] { { 13, 2 }, { 3, 4 }, { 5, 6 }, { 7, 8 } };
-foreach (var item in poker)
-{
-    Console.Write($"->{item}");
-}
+            // Função faz um array 2d (4 Colunas, 2 linhas) e printa os dados na tela
+            int[,] poker = new int[4, 2] { 
+            { 7, 2 }, 
+            { 3, 4 }, 
+            { 5, 6 }, 
+            { 7, 8 } };
+            foreach (var item in poker)
+            {
+                Console.Write($"->{item}");
+            }
 
 
 //Para printar algum dado do array
