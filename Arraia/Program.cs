@@ -26,7 +26,10 @@
                 } while (b < a);
             }
             // Função faz um array 2d (4 Colunas, 2 linhas) e printa os dados na tela
-            int[,] poker = new int[4, 2] { 
+            // é possivel especificar quantas colunas e linhas você quer como limite escrevendo
+            // a quantidade com viruglas dentro de "new int[x,x]"
+            
+            int[,] poker = new int[,] { 
             { 7, 2 }, 
             { 3, 4 }, 
             { 5, 6 }, 
@@ -35,10 +38,8 @@
             {
                 Console.Write($"->{item}");
             }
-
-
-//Para printar algum dado do array
-//System.Console.WriteLine(array2D[0, 0]);
+            //Para printar algum dado em específicodo array
+            //System.Console.WriteLine(array2D[0, 0]);
         }
     }
 }
