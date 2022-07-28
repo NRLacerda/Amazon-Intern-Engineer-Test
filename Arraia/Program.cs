@@ -25,6 +25,14 @@
 
                 } while (b < a);
             }
+            
+int[,] poker = new int[4, 2] { { 13, 2 }, { 3, 4 }, { 5, 6 }, { 7, 8 } };
+System.Console.WriteLine(poker[0, 0]);
+System.Console.WriteLine(poker[1, 0]);
+
+
+//Para printar algum dado do array
+//System.Console.WriteLine(array2D[0, 0]);
         }
     }
 }
