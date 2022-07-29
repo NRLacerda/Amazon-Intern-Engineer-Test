@@ -1,6 +1,6 @@
 ﻿namespace Arraia
 {
-    internal class Program
+    public class Amazonia
     {
         static void Main(string[] args)
         {
